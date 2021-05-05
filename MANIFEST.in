@@ -1,0 +1,4 @@
+graft CTC_SpeechRecognition
+include README.rst
+include LICENSE
+include LICENSE-FLAC
